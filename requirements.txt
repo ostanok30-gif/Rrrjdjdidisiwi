@@ -1,6 +1,0 @@
-pyTelegramBotAPI
-telethon
-requests
-Flask
-python-dotenv
-cryptography
